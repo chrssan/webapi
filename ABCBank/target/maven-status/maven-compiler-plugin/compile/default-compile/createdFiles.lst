@@ -1,0 +1,10 @@
+com\mycompany\abcbank\models\Account.class
+com\mycompany\abcbank\services\AccountService.class
+com\mycompany\abcbank\models\Transaction.class
+com\mycompany\abcbank\resources\CustomerResource.class
+com\mycompany\abcbank\resources\AccountResource.class
+com\mycompany\abcbank\services\CustomerService.class
+com\mycompany\abcbank\databases\Databases.class
+com\mycompany\abcbank\models\Customer.class
+com\mycompany\abcbank\services\TransactionService.class
+com\mycompany\abcbank\resources\TransactionResource.class
